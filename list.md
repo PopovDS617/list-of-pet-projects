@@ -1,2 +1,2 @@
-first
-second
+ - Crypto tracker app [[DEMO](https://crypto-trkr.netlify.app/)] [[source](https://github.com/PopovDS617/crypto-tracker-app)] 
+ - Todo app (vanillaJS + drag'n'drop)  ##DEMO [source](https://github.com/PopovDS617/drag-n-drop-ts-class-based-approach)
