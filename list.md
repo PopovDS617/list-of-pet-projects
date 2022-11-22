@@ -13,4 +13,4 @@
 | Rest, please| [[DEMO](https://rest-please.vercel.app/)] |[[source](https://github.com/PopovDS617/rest-please)]|
 | My portfolio page| [[DEMO](https://popov.vercel.app/)]|[[source](https://github.com/PopovDS617/portfolio-page)]|
 | the Moon (react)| [[DEMO](https://moon-pp.netlify.app/)] |[[source](https://github.com/PopovDS617/the-moon)]
-| Point-to-point map routing | [[DEMO]([https://github.com/PopovDS617/point-to-point-map-routing](https://p-t-p-map-routing.vercel.app/))] | [[source](https://github.com/PopovDS617/point-to-point-map-routing)]
+| Point-to-point map routing | [[DEMO](https://p-t-p-map-routing.vercel.app/)] | [[source](https://github.com/PopovDS617/point-to-point-map-routing)]
