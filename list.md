@@ -14,7 +14,7 @@
 | SignUp & Login page| [[DEMO](https://popov-pp2.vercel.app/)] | [[source](https://github.com/PopovDS617/microservice-auth-nextauth)] |
 | the Moon (react)| [[DEMO](https://moon-pp.netlify.app/)] |[[source](https://github.com/PopovDS617/the-moon)]
 | the Moon (vanilla)| [[DEMO](https://moon-pet-prj.netlify.app/)]| [[source](https://github.com/PopovDS617/the-moon-vanilla)] |
-|Todo app (ts + drag'n'drop)|  [[DEMO(https://todo-dragndrop-ts.vercel.app/)] | [[source](https://github.com/PopovDS617/todo-dragndrop-ts)]|
+|Todo app (ts + drag'n'drop)|  [[DEMO](https://todo-dragndrop-ts.vercel.app/)] | [[source](https://github.com/PopovDS617/todo-dragndrop-ts)]|
 |Weather app |[[DEMO](https://popov-forecast.vercel.app/)]| [[source](https://github.com/PopovDS617/microservice-weather-forecast)] |
 
 
