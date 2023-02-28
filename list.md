@@ -17,7 +17,6 @@
 |Todo app (ts + drag'n'drop)|  [[DEMO](https://todo-dragndrop-ts.vercel.app/)] | [[source](https://github.com/PopovDS617/todo-dragndrop-ts)]|
 |URL shortener|  [[DEMO](https://geturl.vercel.app/)] | [[source](https://github.com/PopovDS617/url-shortener-MERN)]|
 |Weather app |[[DEMO](https://popov-forecast.vercel.app/)]| [[source](https://github.com/PopovDS617/microservice-weather-forecast)] |
-|Webdev cheatsheet|[[DEMO](11)]| [[source](11)] |
 
 
 
